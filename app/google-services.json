@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812319406638",
+    "firebase_url": "https://developernews-4f246.firebaseio.com",
+    "project_id": "developernews-4f246",
+    "storage_bucket": "developernews-4f246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812319406638:android:beee4bd0f5a0f543223dbf",
+        "android_client_info": {
+          "package_name": "com.example.developernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812319406638-oamhglai768pdpbtn8r5in2e6nq26j2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.developernews",
+            "certificate_hash": "05207145fc69e7125001a309f91857e4f03fd89b"
+          }
+        },
+        {
+          "client_id": "812319406638-abu52quqgdum1k833qq8nv51utnuhd83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeyF7XnRBPJ8zB3zU--JVda-Fa_Cx4Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812319406638-abu52quqgdum1k833qq8nv51utnuhd83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
